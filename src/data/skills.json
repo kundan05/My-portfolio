@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "BootStrap",
+    "imageSrc": "skills/bs.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "TailwindCss",
+    "imageSrc": "skills/wind.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Mongodb",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Springboot",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "NextJs",
+    "imageSrc": "skills/nxt.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "VsCode",
+    "imageSrc": "skills/vs.png"
+  },
+  {
+    "title": "Eclipse IDE",
+    "imageSrc": "skills/ec.jpeg"
+  },
+  {
+    "title": "GCP",
+    "imageSrc": "skills/gcp.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/dock.png"
+  },
+  {
+    "title": "GKE",
+    "imageSrc": "skills/kube.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Ec2",
+    "imageSrc": "skills/ec2.jpg"
+  },
+  {
+    "title": "S3",
+    "imageSrc": "skills/s3.jpg"
+  },
+  {
+    "title": "VPC",
+    "imageSrc": "skills/vpc.png"
+  },
+  {
+    "title": "CLI",
+    "imageSrc": "skills/cli.jpeg"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/oc.png"
+  },
+  {
+    "title": "Chat-Gpt",
+    "imageSrc": "skills/chat.png"
+  }
+]

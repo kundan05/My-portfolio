@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Course Management System Using Chat-Gpt",
+    "imageSrc": "projects/p1.png",
+    "description": "This is a project made to use the power of ChatGPT to build course application",
+    "skills": ["Next.js", "Supabase", "Tailwind"],
+    "live": "https://course-app-taupe.vercel.app/",
+    "source": "https://github.com/kundan05/Course-app"
+  },
+  {
+    "title": "Weather application",
+    "imageSrc": "projects/p2.png",
+    "description": "This is a project made to fetch weather data using openWeatherMapApi",
+    "skills": ["Html/Css", "JavaScript", "openWeatherMapApi"],
+    "demo": "https://kundan-weather-app.netlify.app/",
+    "source": "https://github.com/kundan05/weather-app"
+  },
+  {
+    "title": "Text detection in an image using Python",
+    "imageSrc": "projects/p3.png",
+    "description": "This is academic final year project done in 4-person team",
+    "skills": ["Python", "Tesseract", "OpenCV"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kundan05/university-project"
+  },
+  {
+    "title": "Travel booking website",
+    "imageSrc": "projects/p4.png",
+    "description": "This website includes Adventure Idea, packages, and contact us section",
+    "skills": ["Html/Css", "Bootstrap", "JavaScript"],
+    "demo": "https://spontaneous-travesseiro-b88e19.netlify.app/",
+    "source": "https://github.com/kundan05/Travel-package-website"
+  }
+]
