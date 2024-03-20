@@ -4,7 +4,7 @@
     "imageSrc": "projects/p1.png",
     "description": "This is a project made to use the power of ChatGPT to build course application",
     "skills": ["Next.js", "Supabase", "Tailwind"],
-    "live": "https://course-app-taupe.vercel.app/",
+    "demo": "https://course-app-taupe.vercel.app/",
     "source": "https://github.com/kundan05/Course-app"
   },
   {
