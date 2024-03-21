@@ -99,3 +99,14 @@
     padding-right: 0;
   }
 }
+@keyframes bounce {
+  0% {
+    transform: translateY(0); /* Start position */
+  }
+  50% {
+    transform: translateY(-10px); /* Bounce up */
+  }
+  100% {
+    transform: translateY(0); /* Return to start position */
+  }
+}
