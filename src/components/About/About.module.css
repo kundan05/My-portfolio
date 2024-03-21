@@ -26,7 +26,16 @@
 }
 
 .aboutImage {
-  width: 35%;
+  width: 35%; /* Adjust as needed */
+  border: 4px solid #0e0606; /* Add a white border around the image */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow effect */
+  transition: opacity 0.3s ease; /* Add fade transition effect */
+  float: left; /* Float the image to the left */
+  margin-right: 20px; /* Add spacing between the image and surrounding content */
+}
+.aboutImage:hover {
+  opacity: 0.8; /* Reduce opacity on hover */
+  animation: bounce 0.5s ease;
 }
 
 .aboutItems {
