@@ -13,12 +13,14 @@
 }
 
 .text h2 {
+  width: 110%;
   font-size: 80px;
   font-weight: 700;
   letter-spacing: 4px;
 }
 
 .text p {
+  width: 110%;
   font-size: 40px;
   font-weight: 400;
   letter-spacing: 2px;
@@ -33,9 +35,10 @@
 }
 
 .link {
+  width:130%;
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 1px;
 }
 
 .link a {
